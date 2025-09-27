@@ -1,8 +1,8 @@
 AkuraDaff Content Planning
 
-- HTML
-- CSS
-- JavaScript
+- HTML (Plain Web)
+- CSS (Beautifull Web)
+- JavaScript (DOM)
 - GIT
 - GitHub
 - Make a Web.
