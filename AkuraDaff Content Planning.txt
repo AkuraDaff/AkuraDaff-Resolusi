@@ -3,6 +3,7 @@ AkuraDaff Content Planning
 - HTML (Plain Web)
 - CSS (Beautifull Web)
 - JavaScript (DOM)
-- GitHub
-- Make a Web (Step by Step)
-- Cpp
+- GIT (Using Git)
+- GitHub (Using GitHub)
+- Make a Web.
+- Ruby
