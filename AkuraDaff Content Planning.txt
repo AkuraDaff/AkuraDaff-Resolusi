@@ -1,0 +1,8 @@
+AkuraDaff Content Planning
+
+- HTML
+- CSS
+- JavaScript
+- GIT
+- GitHub
+- Make a Web.
